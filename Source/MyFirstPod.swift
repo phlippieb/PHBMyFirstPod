@@ -7,8 +7,8 @@
 
 import Foundation
 
-final class MyFirstPod {
-    static func foo() {
+public final class MyFirstPod {
+    public static func foo() {
         NSLog("My first pod")
     }
 }
