@@ -1,0 +1,16 @@
+PODS:
+  - PHBMyFirstPod (0.1.0)
+
+DEPENDENCIES:
+  - PHBMyFirstPod (from `../`)
+
+EXTERNAL SOURCES:
+  PHBMyFirstPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PHBMyFirstPod: 1701a3dfeec5516f8c6929bdd866d79e4db8513d
+
+PODFILE CHECKSUM: 091261db1d1d9dd547af309cfbc69a87b60efa54
+
+COCOAPODS: 1.5.3
