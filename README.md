@@ -1,6 +1,5 @@
 # PHBMyFirstPod
 
-[![CI Status](https://img.shields.io/travis/phlippieb/PHBMyFirstPod.svg?style=flat)](https://travis-ci.org/phlippieb/PHBMyFirstPod)
 [![Version](https://img.shields.io/cocoapods/v/PHBMyFirstPod.svg?style=flat)](https://cocoapods.org/pods/PHBMyFirstPod)
 [![License](https://img.shields.io/cocoapods/l/PHBMyFirstPod.svg?style=flat)](https://cocoapods.org/pods/PHBMyFirstPod)
 [![Platform](https://img.shields.io/cocoapods/p/PHBMyFirstPod.svg?style=flat)](https://cocoapods.org/pods/PHBMyFirstPod)
